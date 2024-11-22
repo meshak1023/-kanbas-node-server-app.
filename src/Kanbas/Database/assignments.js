@@ -1,0 +1,110 @@
+export default [
+  {
+    "_id": "A101",
+    "title": "Propulsion Assignment",
+    "course": "RS101",
+    "dueDate": "2024-10-20",
+    "points": 100,
+    "assignTo": "",
+    "notAvailableUntil": "2024-10-15",
+    "description": "Please help.",
+    "group": "Assignments",
+    "submissionType": "offline"
+  },
+  {
+    "_id": "A102",
+    "title": "Combustion Analysis",
+    "course": "RS101",
+    "dueDate": "2024-10-22",
+    "points": 50,
+    "assignTo": "",
+    "notAvailableUntil": "2024-10-17",
+    "description": "I hate this.",
+    "group": "Assignments",
+    "submissionType": "offline"
+  },
+  {
+    "_id": "A103",
+    "title": "Nozzle Design Project",
+    "course": "RS101",
+    "dueDate": "2024-11-01",
+    "points": 150,
+    "assignTo": "",
+    "notAvailableUntil": "2024-10-27",
+    "description": "This project  is for  Nozzle .",
+    "group": "Projects",
+    "submissionType": "online"
+  },
+  {
+    "_id": "A201",
+    "title": "Aerodynamics Quiz",
+    "course": "RS102",
+    "dueDate": "2024-10-15",
+    "points": 30,
+    "assignTo": "",
+    "notAvailableUntil": "2024-10-10",
+    "description": "A quiz assessing knowledge of aerodynamic .",
+    "group": "Quizzes",
+    "submissionType": "offline"
+  },
+  {
+    "_id": "A202",
+    "title": "Flow Analysis",
+    "course": "RS102",
+    "dueDate": "2024-10-30",
+    "points": 40,
+    "assignTo": "",
+    "notAvailableUntil": "2024-10-25",
+    "description": "fluid flow patterns and their effects.",
+    "group": "Assignments",
+    "submissionType": "online"
+  },
+  {
+    "_id": "A203",
+    "title": "Heating Analysis",
+    "course": "RS102",
+    "dueDate": "2024-11-05",
+    "points": 60,
+    "assignTo": "",
+    "notAvailableUntil": "2024-10-31",
+    "description": " heating analysis to understand thermal dynamics.",
+    "group": "Assignments",
+    "submissionType": "offline"
+  },
+  {
+    "_id": "A301",
+    "title": "Structural Design Task",
+    "course": "RS103",
+    "dueDate": "2024-10-25",
+    "points": 100,
+    "assignTo": "",
+    "notAvailableUntil": "2024-10-20",
+    "description": "Sturcturacl Components Tasl.",
+    "group": "Assignments",
+    "submissionType": "offline"
+  },
+  {
+    "_id": "A302",
+    "title": "Orbital Calculations",
+    "course": "RS103",
+    "dueDate": "2024-11-10",
+    "points": 70,
+    "assignTo": "",
+    "notAvailableUntil": "2024-11-05",
+    "description": "Calculations space .",
+    "group": "Assignments",
+    "submissionType": "online"
+  },
+  {
+    "_id": "A303",
+    "title": "Systems Engineering Exam",
+    "course": "RS103",
+    "dueDate": "2024-11-15",
+    "points": 120,
+    "assignTo": "",
+    "notAvailableUntil": "2024-11-10",
+    "description": "An exam for systems engineering",
+    "group": "Tests",
+    "submissionType": "offline"
+  }
+]
